@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=E+a%C3%AD%2C+eu+sou+o+Iago+%F0%9F%91%8B;Multidisciplinar+%7C+C%C3%B3digo+%7C+Linux" alt="título animado" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B;Multidisciplinar+%7C+C%C3%B3digo+%7C+Linux" alt="título animado" />
 </div>
 
 <br/>
